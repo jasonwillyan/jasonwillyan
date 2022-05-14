@@ -1,12 +1,45 @@
-### Hi there, i am Jason Willyan 😎
+## Hello people, my name is Jason and i'm Quality Assurance Engineer.
+
+<img src="img/2.png" width="230px" align="right" alt="Developer">
+ 
+<p align="left">
+  Hard Skills: <strong>HTML5, CSS3, JavaScript, C, C++, Teste de Software, Linux, Python (basic). </strong> 
+</p> 
+
+<p align="left">
+  Tools: <strong>Git, GitHub, GitLab, Cypress, ESLint, , VSCode. </strong> 
+</p> 
+ 
+<p align="left">
+  Works: <strong>Today work at MContigo Group.</strong>
+</p>
+ 
+<p align="left">
+  <strong>You can find me here:</strong> ⬇
+</p>
 
 <div>
+ 
+<p align="left">
+  <a href="mailto:jasonwillyan@hotmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3" /></a>
+ 
+  <a href="https://www.linkedin.com/in/jason-willyan/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0061C3"></a> 
+</p>
+  
+</div>
+
+<br /> 
+<br />
+
+<div align="center">
   <a href="https://github.com/jasonwillyan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasonwillyan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonwillyan&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -17,15 +50,17 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/BRazXKLuCr_uUO8AuVfhqHXymlOdCLD5tYrwbL8d2spPTcHdIlkSDOGmDxg4CWf2Eh4=w300">
+  
 </div>
   
-<div> 
-  </br>
-  </br>
-  <a href = "mailto:jasonwillyan@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jason-willyan-a283831a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
+<div align="center">
+  
+<br />
+<br />
+  
+<p>Total de visitas no perfil:</p>
+<p>
+    <img src="https://profile-counter.glitch.me/jasonwillyan/count.svg"/>
+</p>
 </div>
