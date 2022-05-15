@@ -1,18 +1,4 @@
-## Hello people, my name is Jason and i'm Quality Assurance Engineer.
-
-<img src="img/2.png" width="230px" align="right" alt="Developer">
- 
-<p align="left">
-    Hard Skills: <strong>HTML5, CSS3, JavaScript, C, C++, Teste de Software, Linux, Python (basic). </strong> 
-</p> 
-
-<p align="left">
-    Tools: <strong>Git, GitHub, GitLab, Cypress, ESLint, ClickUp, VSCode. </strong> 
-</p> 
- 
-<p align="left">
-    Works: <strong>Today work at MContigo Group.</strong>
-</p>
+## Hi there, I am Jason Willyan
  
 <p align="left">
     <strong>You can find me here:</strong> ⬇
@@ -26,6 +12,9 @@
     </a>
     <a href="https://www.linkedin.com/in/jason-willyan/" alt="Linkedin">
         <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0061C3"/>
+    </a> 
+    <a href="https://www.instagram.com/jasonwillyan/" alt="Linkedin">
+        <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=0061C3"/>
     </a> 
 </p>
 
@@ -50,11 +39,6 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
-</div>
-  
-<div align="center">
-    <br />
-    <img src="img/mario.gif" width="650px"/>
 </div>
 
 <div align="center">
