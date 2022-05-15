@@ -7,7 +7,7 @@
 </p> 
 
 <p align="left">
-    Tools: <strong>Git, GitHub, GitLab, Cypress, ESLint, , VSCode. </strong> 
+    Tools: <strong>Git, GitHub, GitLab, Cypress, ESLint, ClickUp, VSCode. </strong> 
 </p> 
  
 <p align="left">
