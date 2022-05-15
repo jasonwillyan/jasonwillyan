@@ -10,7 +10,7 @@
     <a href="mailto:jasonwillyan@hotmail.com" alt="Gmail">
         <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3"/>
     </a>
-    <a href="https://www.linkedin.com/in/jason-willyan/" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/jason-willyan/" target="_blank" alt="Linkedin">
         <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0061C3"/>
     </a> 
     <a href="https://www.instagram.com/jasonwillyan/" alt="Linkedin">
