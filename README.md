@@ -41,11 +41,3 @@
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
 </div>
 
-<div align="center">
-    <br />
-    <br />
-    <p>Total de visitas no perfil:</p>
-    <p>
-        <img src="https://profile-counter.glitch.me/jasonwillyan/count.svg"/>
-    </p>
-</div>
