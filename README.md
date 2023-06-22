@@ -5,13 +5,11 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jason-willyan/) 
 [<img src = "https://img.shields.io/badge/instagram-%23AB2CAA.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thegoodwatari/)
 
-![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
-
-    Hello my name is Jason, I'm a Software Engineer and QA.
+    "If, at first, the idea is not absurd, then there is no hope for it."
     
 🐱 About me:
 
-- 🖥️ Full-Stack Developer
+- 🖥️ Software Enginner and QA
 - 🐈 Cat lover 
 - 🐛 Professional solver
 - 💻 Coding enthusiast
@@ -39,7 +37,7 @@
 </div>
 
 ### Other technologies:
-<div>
+<div style="display: flex;">
   <img src="https://img.shields.io/badge/-Kanban-%231E90FF?style=for-the-badge&logo=kanban&logoColor=ffffff" alt="Kanban"></a>
   <img src="https://img.shields.io/badge/-GitLab-%23DB4128?style=for-the-badge&logo=gitlab&logoColor=ffffff" alt="GitLab"></a>
   <img src="https://img.shields.io/badge/-CI/CD-%233E34F7?style=for-the-badge&logo=cicd&logoColor=ffffff" alt="Integração e entrega contínuas (CI/CD)"></a>
@@ -55,4 +53,28 @@
   <img src="https://img.shields.io/badge/Rainbow%20Six%20Siege-%23003849.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/counter%20strike-%23E48517.svg?&style=for-the-badge&logo=counter-strike" />
 </div>
+
+```mermaid
+%% Fluxograma
+%%{ init: { 'flowchart': { 'curve': 'natural' } } }%%
+flowchart LR
+
+    style Acordar fill:#000,stroke:#333,stroke-width:2px,color:white;
+    style CaféDaManhã fill:#000,stroke:#333,stroke-width:2px,color:white;
+    style Desenvolvimento fill:#000,stroke:#333,stroke-width:2px,color:white;
+    style Revisão fill:#000,stroke:#333,stroke-width:2px,color:white;
+    style Testes fill:#000,stroke:#333,stroke-width:2px,color:white;
+    style Deploy fill:#000,stroke:#333,stroke-width:2px,color:white;
+
+    Acordar([fa:fa-bed Acordar]) -.-> CaféDaManhã([fa:fa-coffee Café da manhã])
+    CaféDaManhã -.-> Desenvolvimento([fa:fa-laptop-code Desenvolvimento])
+    Desenvolvimento -.-> Revisão([fa:fa-search Revisão])
+    Revisão -.-> Testes([fa:fa-flask Testes])
+    Testes -.->|Deu bom| Deploy{{fa:fa-rocket Deploy}}
+    Testes -.->|Deu bug| Desenvolvimento
+```
+
+
+
+
 
