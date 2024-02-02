@@ -1,5 +1,5 @@
 
-# :man_technologist: Jason Willyan Castro do Nascimento
+# :man_technologist: Jason Willyan
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jasonwillyan)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jason-willyan/) 
@@ -30,10 +30,12 @@
 
 ### Frameworks:
 <div>
-  <img src="https://img.shields.io/badge/-Cypress-%232EDD95?style=for-the-badge&logo=cypress&logoColor=ffffff" alt="Cypress"></a>
   <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js"></a>
   <img src="https://img.shields.io/badge/-Vite-%234163B1?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Vite"></a>
   <img src="https://img.shields.io/badge/-Scrum-%233F556C?style=for-the-badge&logo=scrum&logoColor=ffffff" alt="Scrum"></a>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"></a>
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright"></a>
+  <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="Postman"></a>
 </div>
 
 ### Other technologies:
